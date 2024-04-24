@@ -1,0 +1,30 @@
+#mar1 > div, #mar2 > div ,#mar1 > div > #cap1 {
+    margin-bottom: 15%;
+    position: relative;
+}
+#mar1 > div > span , #mar2 > div > span{
+    position: absolute;
+    top: 40px;
+    right: 0px;
+    color: red;
+}
+#home{
+    margin-top: 2px;
+}
+.fileInput{
+    cursor: pointer;
+    padding: 6px 12px;
+    background-color: rgb(51, 39, 39);
+    border-radius: 20px;
+    color: white;
+
+}
+.fileInput:hover{
+    background-color:rgb(92, 73, 73);
+}
+#th2{
+    margin-bottom: 30px;
+}
+#mar > div > input{
+    margin-bottom: 10%;
+}
